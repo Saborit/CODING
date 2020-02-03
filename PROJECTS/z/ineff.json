@@ -1,0 +1,12 @@
+{
+  "pkdesc": "Be Careful: Judging an 3N1?M4 Code...",
+  "pbcode": "a",
+  "tl": 1000,
+  "ml": 65536,
+  "warmup": "g++ -std=c++14 -Wall -O2 -o {PROBLEM} {PROBLEM}.cpp",
+  "execute": "./{PROBLEM}",
+  "tstdir": "test/",
+  "inp": "*.in",
+  "out": "*.out"
+}
+
